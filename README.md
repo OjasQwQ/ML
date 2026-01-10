@@ -1,2 +1,1 @@
-# ML
-Diving into AI
+# First Neural Network 
